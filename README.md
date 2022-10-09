@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas! 👋
 
-- 🔭 I’m currently working at 99Jobs as a Front-End Developer
+- 🔭 I’m currently working at Q4inc as a Front-End Developer
 - 📫 How to reach me: If you want to reach me, just send me a message!
 
  <div>
