@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas! 👋
 
-- 🔭 I’m currently working at Q4inc and Rainbet.com as a Front-End Developer
+- 🔭 I’m currently working at Rainbet.com as a Front-End Developer
 - 📫 How to reach me: If you want to reach me, just send me a message!
 
  <div>
